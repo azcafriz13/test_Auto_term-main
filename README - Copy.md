@@ -38,3 +38,7 @@ code for automating data collection
 
 
 #### the directory in the code need to be changed before using
+
+# Links for Reference:
+### Parent Directory for data (8 files each) GID001 through GID 295
+https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0788_greenland_glacier_termini_v01/GID001/
